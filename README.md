@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>LAMP Stack Presentation</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Practicing Creating A LAMP Stack](https://github.com/LeQuica/LAMPSTACKLAB)
 
 
 <h2>📺 YouTube Videos</h2>
